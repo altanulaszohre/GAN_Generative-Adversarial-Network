@@ -78,3 +78,6 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 - [Ian Goodfellow](https://en.wikipedia.org/wiki/Ian_Goodfellow), inventor of GANs
 - [Kaggle Celebrity Dataset](https://www.kaggle.com/datasets/vishesh1412/celebrity-face-image-dataset)
 - TensorFlow and Keras frameworks
+
+
+***Altan Ulaş Zöhre***
